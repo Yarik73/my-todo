@@ -1,4 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f921f61e-2523-45fe-874a-b1bc757c8868" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1exMPid4EdR3sGgJlOUKRh3ehtC" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yarik\Documents\GitHub\my-todo\src\components\item-status-flter" />
+      <recent name="C:\Users\Yarik\Documents\GitHub\my-todo\src\components\app-header" />
+      <recent name="C:\Users\Yarik\Documents\GitHub\my-todo\src\components\todo-list-item" />
+      <recent name="C:\Users\Yarik\Documents\GitHub\my-todo\src\components\todo-list" />
+      <recent name="C:\Users\Yarik\Documents\GitHub\my-todo\src\components\search-panel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f921f61e-2523-45fe-874a-b1bc757c8868" name="Default Changelist" comment="" />
+      <created>1595336984600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595336984600</updated>
+      <workItem from="1595336988842" duration="2276000" />
+      <workItem from="1595339273549" duration="1998000" />
+      <workItem from="1595397953145" duration="4647000" />
+      <workItem from="1595422352891" duration="2323000" />
+      <workItem from="1595939382911" duration="1731000" />
+      <workItem from="1596112150333" duration="4451000" />
+      <workItem from="1596274544063" duration="9428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
